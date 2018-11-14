@@ -1,0 +1,1 @@
+﻿SELECT * FROM DiagnosisTests join TestsTreatments on IdTest=TestNum where IdDiagnosis=1 and IdDiagnosis=2 and  TreatmentNum=1

@@ -1,0 +1,1 @@
+﻿INSERT INTO TreatmentsStatus (TreatmentNum,Reception,typeTreatment) VALUES (11,SYSDATETIME(),'אחות')

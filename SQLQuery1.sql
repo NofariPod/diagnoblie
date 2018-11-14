@@ -1,0 +1,2 @@
+﻿
+SELECT Treatments.PatientId,FirstName,LastName,Reception,TreatmentStatus,NurseId,DoctorId FROM Treatments join Patients on Treatments.PatientId=Patients.PatientId join  TreatmentsStatus on TreatmentsStatus.TreatmentNum=Treatments.TreatmentNum where typeTreatment=N'כללי'
