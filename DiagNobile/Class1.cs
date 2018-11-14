@@ -16,7 +16,7 @@ namespace DiagNobile
 
 
 
-        public String dataSource = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\nofar\Desktop\DiagNobile1.9\DiagNobile1.9\DiagNobile31.8\DiagNobile\DiagNobile\Diagnobile_Database.mdf;Integrated Security=True;Connect Timeout=30";
+        public String dataSource = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\nofar\source\repos\diagnoblie\DiagNobile\Diagnobile_Database.mdf;Integrated Security=True;Connect Timeout=30";
 
         public MyDiagNobileFunctions()
         {
